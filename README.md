@@ -6,6 +6,4 @@ It is useful when we have huge number of variables but few samples.
 
 However, the simulation demonstrates that it's not very powerful in multivariate GWAS.
 
-<span style="color:red">
-Text content
-</span>
+$${\color{red}Red}$$
