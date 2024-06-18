@@ -6,4 +6,4 @@ It is useful when we have huge number of variables but few samples.
 
 However, the simulation demonstrates that it's not very powerful in multivariate GWAS.
 
-$${\color{red}Red}$$
+${\color{red}There are important changes to the log file}$
