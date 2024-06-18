@@ -5,5 +5,3 @@ This method is from Cox, D. R., and H. S. Battey. "Large numbers of explanatory 
 It is useful when we have huge number of variables but few samples.
 
 However, the simulation demonstrates that it's not very powerful in multivariate GWAS.
-
-${\color{red}There \space are  \space important changes to the log file}$
